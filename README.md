@@ -52,11 +52,11 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlo666&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=samlo666&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samlo666&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlo666&layout=compact&theme=radical" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samlo666&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samlo666&theme=radical" alt="GitHub Streak" />
 
 </div>
 
@@ -66,7 +66,7 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=samlo666&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=samlo666&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -76,7 +76,7 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlo666&theme=react-dark)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samlo666&theme=react-dark" alt="Activity Graph" />
 
 </div>
 
