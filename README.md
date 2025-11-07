@@ -8,13 +8,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to code and create amazing projects! 
+I'm a passionate developer who loves to code and create amazing projects!
+I'm also a professional trombone player!
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning new technologies
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I love playing games!
+- 📫 How to reach me: samlo666minecraft@gmail.com
+- ⚡ Fun fact: I love develop on esp32!
+
 
 ---
 
@@ -50,11 +52,11 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlo666&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samlo666&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samlo666&theme=radical)
 
 </div>
 
@@ -64,7 +66,7 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=samlo666&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -74,7 +76,7 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlo666&theme=react-dark)
 
 </div>
 
@@ -84,7 +86,7 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/samlo666/samlo666/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -92,13 +94,13 @@ Want to take a break? Play the classic Snake game right here!
 
 ## 💼 Featured Projects
 
-### 🔥 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
+### 🔥 [Project Name 1](https://github.com/samlo666/project1)
 > A brief description of your amazing project
 
-### 🔥 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
+### 🔥 [Project Name 2](https://github.com/samlo666/project2)
 > Another cool project description
 
-### 🔥 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
+### 🔥 [Project Name 3](https://github.com/samlo666/project3)
 > Yet another awesome project
 
 ---
@@ -107,7 +109,8 @@ Want to take a break? Play the classic Snake game right here!
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samlo666)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samlo1337/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -130,10 +133,6 @@ Want to take a break? Play the classic Snake game right here!
   
   ### Show some ❤️ by starring some repositories!
   
-  ![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/samlo666/count.svg)
 
 </div>
-
----
-
-**Note:** Remember to replace `YOUR_USERNAME` with your actual GitHub username throughout this README!
